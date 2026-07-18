@@ -1,0 +1,9 @@
+*.beam
+*.ez
+/build
+erl_crash.dump
+node_modules/
+bun.lock
+bun.lockb
+.env
+.env.local
